@@ -1,11 +1,11 @@
-# Awesome Sysadmin
-A curated list of amazingly awesome open source sysadmin resources.
+# Awesome DevOps
+A curated list of amazingly awesome open source DevOps and Sysadmin resources.
 
 ## Contributing
 Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 
 ## Table of Contents
-* [Awesome Sysadmin](#awesome-sysadmin)
+* [Awesome DevOps and Sysadmin](#awesome-devops)
   * [Backups](#backups)
   * [Build Automation](#build-automation)
   * [ChatOps](#chatops)
@@ -191,6 +191,7 @@ Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software.
 * [Chef](http://www.opscode.com/chef/) - It's written in Ruby and Erlang and uses a pure-Ruby DSL.
 * [Pallet](http://palletops.com/) - Infrastructure definition, configuration and management via a Clojure DSL.
 * [Puppet](http://puppetlabs.com/) - It's written in Ruby and uses Puppet's declarative language or a Ruby DSL.
+	+ [Puppet Workflows Part 2015.2](http://garylarizza.com/blog/2015/11/16/workflows-evolved-even-besterer-practices/) - Workflows 2015.2
 * [(R)?ex](https://www.rexify.org/) - It's written in Perl and use plain Perl, over SSH without agent.
 * [Salt](http://www.saltstack.com/) - It's written in Python.
 * [Slaughter](http://steve.org.uk/Software/slaughter/) - It's written in Perl.
